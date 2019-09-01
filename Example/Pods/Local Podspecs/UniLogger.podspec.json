@@ -1,0 +1,22 @@
+{
+  "name": "UniLogger",
+  "version": "0.1.0",
+  "summary": "A short description of UniLogger.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rubenvot/UniLogger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rubenvot": "rubenvot@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/rubenvot/UniLogger.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UniLogger/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - UniLogger (0.1.0)
+
+DEPENDENCIES:
+  - UniLogger (from `../`)
+
+EXTERNAL SOURCES:
+  UniLogger:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UniLogger: d3918f550fbc16d831f2b9e76d6455d204418a1e
+
+PODFILE CHECKSUM: a38d92975f18896dfea8ebf1d054ef63bf923f7b
+
+COCOAPODS: 1.8.0.beta.1

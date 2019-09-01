@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/rubenvot/UniLogger'
+  s.homepage         = 'https://github.com/RubenVot/unilogger'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'rubenvot' => 'rubenvot@gmail.com' }
@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'UniLogger/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'UniLogger' => ['UniLogger/Assets/*.png']
   # }
