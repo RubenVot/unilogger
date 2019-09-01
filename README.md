@@ -22,7 +22,7 @@ pod 'UniLogger'
 
 ## Author
 
-rubenvot, rubenvot@gmail.com
+Rubén Vázquez, hola@rubenvazquez.me
 
 ## License
 
